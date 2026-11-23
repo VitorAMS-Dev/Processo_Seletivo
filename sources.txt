@@ -1,0 +1,10 @@
+src/main/java/br/com/seletivo/model/Vaga.java
+src/main/java/br/com/seletivo/model/Candidato.java
+src/main/java/br/com/seletivo/model/ResultadoValidacao.java
+src/main/java/br/com/seletivo/util/ValidadorCPF.java
+src/main/java/br/com/seletivo/util/ValidadorEmail.java
+src/main/java/br/com/seletivo/validator/CandidatoValidator.java
+src/main/java/br/com/seletivo/service/ProcessoSeletivoService.java
+src/main/java/br/com/seletivo/Main.java
+src/main/java/br/com/seletivo/enums/StatusCandidato.java
+src/main/java/br/com/seletivo/enums/NivelVaga.java
